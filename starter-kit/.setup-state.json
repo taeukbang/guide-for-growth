@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "step": 0,
+  "team_name": null,
+  "personas_created": [],
+  "context_done": false,
+  "triggers_done": false,
+  "skill_done": false,
+  "mcp": {
+    "confluence": false,
+    "slack": false,
+    "gmail": false
+  }
+}
